@@ -26,6 +26,8 @@
   "ignore": [
     "**/.*",
     "**/*.alaw",
+    "**/*.c",
+    "**/*.h",
     "**/*.mjr",
     "node_modules",
     "bower_components",
